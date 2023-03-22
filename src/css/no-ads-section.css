@@ -1,0 +1,25 @@
+div.no-ads-content-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: 50px 100px;
+  gap: 30px;
+}
+
+div.no-ads-content-wrapper>div>h2 {
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 44px;
+  margin: 0;
+}
+
+div.no-ads-content-wrapper>div>p {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+div.no-ads-content-wrapper>img {
+  width: 680px;
+  border-radius: 16px;
+  margin-right: 100px;
+}

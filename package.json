@@ -1,0 +1,15 @@
+{
+  "name": "week-01-signal-homepage-clone",
+  "version": "0.0.0",
+  "description": "A clone of the homepage of signal.org",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "I-_-I",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
